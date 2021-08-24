@@ -29,5 +29,7 @@ public class Employee {
 		boolean maritalstatus=true;
 		System.out.println("Employee marital status is"+maritalstatus);
 	}
-
+private void simple() {
+System.out.println();
+}
 }
